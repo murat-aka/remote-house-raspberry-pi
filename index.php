@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/highcharts-more.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
+	
+	</head>
+	
+	
+
+
+<frameset cols="35%,65%">
+  <frame src="php/control.php">
+  <frameset rows="40%,60%">
+    <frame src="html/time.html">
+	<frameset cols="40%,60%">
+	<frame src="html/index.html">
+	<frame src="html/db.html">
+	
+	
+	
+     </frameset>
+</frameset>
+</frameset>
+
+</html>
+		
+		
+	
+	<body>
+		/*<div id="container" style="width: 400px; height: 200px; margin-left: 90px;">
+		<script type="text/javascript" src="time.js"></script>
+		</div>
+		
+		<div id="container1" style="width: 400px; height: 200px; margin-left: 900px;">
+		<script type="text/javascript" src="dbPlot.js"></script>
+		</div>*/
+	</body>
+</html>
