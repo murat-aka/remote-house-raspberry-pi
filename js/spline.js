@@ -119,7 +119,7 @@ $(function () {
                 }
             },
             title: {
-                text: 'Live random data'
+                text: 'Local Temperature in F'
             },
             xAxis: {
                 type: 'datetime',
